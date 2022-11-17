@@ -1,0 +1,10 @@
+{
+    "action": {
+        "service": "youtube",
+        "name": "new_video_posted"
+    },
+    "reaction": {
+        "service": "youtube",
+        "name": "upload_video"
+    }
+}

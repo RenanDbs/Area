@@ -1,0 +1,40 @@
+{
+  "name": "AREA",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "start": "vite"
+  },
+  "dependencies": {
+    "@gh0st-work/solid-js-router": "^1.3.2",
+    "@solidjs/router": "^0.4.3",
+    "@suid/icons-material": "^0.4.1",
+    "@suid/material": "^0.6.2",
+    "axios": "^1.1.2",
+    "mui": "^0.0.1",
+    "prettier": "^2.7.1",
+    "react": "^18.2.0",
+    "react-cookie": "^4.1.1",
+    "react-custom-scroll": "^4.4.0",
+    "react-dom": "^18.2.0",
+    "react-google-login": "^5.2.2",
+    "sass": "^1.55.0",
+    "solid-app-router": "^0.4.2",
+    "solid-custom-scrollbars": "^0.1.7",
+    "solid-icons": "^1.0.1",
+    "solid-js": "^1.5.4",
+    "solid-router": "^0.3.3",
+    "suid": "^1.0.0",
+    "ts-react-google-login-component": "^1.1.9",
+    "vite-plugin-svg-inject": "^1.0.9",
+    "vite-plugin-svgr-component": "^1.0.1"
+  },
+  "devDependencies": {
+    "@suid/vite-plugin": "^0.0.2",
+    "typescript": "^4.8.2",
+    "vite": "^3.0.9",
+    "vite-plugin-solid": "2.3.4",
+    "vite-plugin-solid-svg": "^0.5.0"
+  }
+}

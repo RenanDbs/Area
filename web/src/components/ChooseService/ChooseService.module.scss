@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+
+.Rectangle {
+  width: 74.125rem;
+  height: 50.5625rem;
+  background-color: #d8eefe;
+  border-radius: 0.3125rem;
+  border: 0.125rem solid #094067;
+  box-shadow: -0.375rem 0.375rem #90b4ce;
+  margin-bottom: 1.875rem;
+}
+
+.TitleChooseService {
+  font-family: "Orbitron";
+  font-style: normal;
+  font-size: 3rem;
+  color: #094067;
+}
+
+.TitleTrigger {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-size: 2rem;
+  color: #5f6c7b;
+}
+
+.Title {
+  padding: 1.875rem;
+}
+
+.Line {
+  width: 0.125rem;
+  height: 32rem;
+  background-color: #094067;
+}
+
+.DivAction {
+  display: flex;
+}
+
+.TitleAction {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-size: 1.5rem;
+  color: #094067;
+}
+
+.TitlePossibleAction {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-size: 1.25rem;
+  color: #5f6c7b;
+}
+
+.WipService {
+  padding-left: 2rem;
+  padding-top: 1.5rem;
+}
+
+.DivLine {
+  padding: 1.875rem;
+}
+
+.LeftPanel {
+  text-align: center;
+  padding-top: 1.875rem;
+}
+
+.ButtonAction {
+  width: 38rem;
+  height: 4.688rem;
+}
+
+.CreateButton {
+  width: 21.875rem;
+  height: 4.688rem;
+}
+
+.ErrorTitle {
+  margin-left: 1.5rem;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-size: 1.25rem;
+  color: red;
+}
+
+.ToolsTextField {
+  width: 29.095rem;
+}
+
+.Test {
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+.test3 {
+  display: block;
+  margin: 0.3rem;
+}

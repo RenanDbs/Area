@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+
+.AreaTitleNF {
+  font-family: "Orbitron";
+  font-style: normal;
+  font-size: 6rem;
+  text-align: center;
+  color: #094067;
+}
+
+.NotFoundTitleNF {
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  font-size: 6rem;
+  color: #ef4565;
+  display: inline;
+  padding: 6.25rem;
+}
+
+.LineSeparationNF {
+  width: 0.25rem;
+  height: 5rem;
+  background-color: #094067;
+  display: inline-block;
+}
+
+.MidTitleNF {
+  text-align: center;
+  padding-top: 4.375rem;
+  padding-bottom: 6.25rem;
+}
+
+.MainNF {
+  position: relative;
+}

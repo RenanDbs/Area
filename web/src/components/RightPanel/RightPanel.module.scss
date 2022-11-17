@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+
+.firstDiv {
+  position: absolute;
+}
+
+.secondDiv {
+  text-align: center;
+}
+
+.areaTitle {
+  width: 19.625rem;
+  height: 7.5rem;
+  font-style: normal;
+  font-size: 6rem;
+  color: #094067;
+  font-family: "Orbitron", sans-serif;
+}
+
+.loginTitle {
+  width: 8.875rem;
+  height: 3.5rem;
+  font-family: "Work Sans", sans-serif;
+  font-style: normal;
+  font-size: 3rem;
+  color: #5f6c7b;
+}
+
+.createButton {
+  width: 21.875rem;
+  height: 4.688rem;
+}
+
+.googleButton {
+  width: 21.875rem;
+  height: 4.688rem;
+}
+
+.googleTitle {
+  padding-bottom: 1.25rem;
+}
+
+.containerCreate {
+  padding-bottom: 1.25rem;
+}
+
+.containerLogin {
+  padding-bottom: 7rem;
+}
+
+.accountButton {
+  padding-bottom: 0.938rem;
+}
+
+.APKButton {
+  width: 21.875rem;
+  height: 3.75rem;
+}
+
+.TitleAPK {
+  padding-right: 0.625rem;
+}

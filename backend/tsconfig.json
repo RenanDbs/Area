@@ -1,0 +1,14 @@
+{
+    "ts-node": { "files": true },
+    "compilerOptions": {
+        "strict": true,
+        "esModuleInterop": true,
+        "outDir": "js",
+        "resolveJsonModule": true
+    },
+    "include": [
+        "src/**/*",
+        "test/**/*"
+    ],
+    "exclude": ["src/interfaces/IEnrichedRequest.ts"]
+}

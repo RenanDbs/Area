@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+
+.RectangleEnterInfo {
+  position: absolute;
+  width: 37.5rem;
+  height: 40.625rem;
+  background-color: #ffffff;
+  text-align: center;
+  border-radius: 0.313rem;
+  border: 0.125rem solid #094067;
+  box-shadow: -0.625rem 0.625rem #90b4ce;
+}
+
+.InputEmail {
+  background-color: #ffffff;
+}
+
+.InputPassword {
+  background-color: #ffffff;
+}
+
+.ContainerWelcome {
+  width: 16.25rem;
+  height: 7.5rem;
+  padding: 4.063rem;
+}
+
+.WelcomeTitle {
+  display: block;
+  text-align: justify;
+  align-items: baseline;
+  font-family: "Orbitron";
+  font-style: normal;
+  font-size: 3rem;
+  color: #094067;
+}
+
+.ToolsTextField {
+  width: 29.095rem;
+}
+
+.ContainerLogin {
+  padding-top: 3.125rem;
+  padding-bottom: 3.125rem;
+}
+
+.TitleWrong {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-size: 1.25rem;
+  color: red;
+}
+
+.TitleGood {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-size: 1rem;
+  color: #094067;
+}

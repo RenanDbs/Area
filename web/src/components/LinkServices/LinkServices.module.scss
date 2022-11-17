@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+
+.Rectangle {
+  width: 74.125rem;
+  height: 50.563rem;
+  background-color: #d8eefe;
+  border-radius: 0.313rem;
+  border: 0.125rem solid #094067;
+  box-shadow: -0.375rem 0.375rem #90b4ce;
+}
+
+.TitleChooseService {
+  font-family: "Orbitron";
+  font-style: normal;
+  font-size: 3rem;
+  color: #094067;
+}
+
+.TitleTrigger {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-size: 2rem;
+  color: #5f6c7b;
+}
+
+.Title {
+  padding: 1.875rem;
+}
+
+.Line {
+  width: 0.125rem;
+  height: 32rem;
+  background-color: #094067;
+}
+
+.DivAction {
+  width: 25rem;
+  height: 25rem;
+  margin: 3.75rem;
+}
+
+.TitleAction {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-size: 1.5rem;
+  color: #094067;
+}
+
+.TitlePossibleAction {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-size: 1.25rem;
+  color: #5f6c7b;
+}
+
+.DivLine {
+  padding: 1.875rem;
+}
+
+.LeftPanel {
+  padding-left: 1.875rem;
+  text-align: center;
+  padding-top: 1.875rem;
+}
+
+.TitleService {
+  padding-right: 0.938rem;
+}
+
+.UnlinkIcon {
+  height: 2.188rem;
+  margin-left: 2rem !important;
+}
+
+.DivEachButton {
+  margin-bottom: 0.6rem;
+  display: flex;
+  align-items: center;
+}
+
+.TitleUnlink {
+  margin-left: 0.3rem;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-size: 1.2rem;
+  color: #094067;
+}

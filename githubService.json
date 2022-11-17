@@ -1,0 +1,22 @@
+{
+    "name": "github",
+    "actions": [
+        {
+            "name": "push",
+            "description": "Triggered when a push is realized",
+            "params": [
+                {
+                    "name": "owner",
+                    "descripton": "The owner of the repo",
+                    "type": "string"
+                },
+                {
+                    "name": "repo",
+                    "description": "The target repo",
+                    "type": "string"
+                }
+            ]
+        }
+    ],
+    "reactions": []
+}
